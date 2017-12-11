@@ -1,0 +1,47 @@
+\begin{thebibliography}{}
+
+\bibitem[Chang et~al., 2015]{Chang2015}
+Chang, C.~C., Chow, C.~C., Tellier, L.~C., Vattikuti, S., Purcell, S.~M., and
+  Lee, J.~J. (2015).
+\newblock Second-generation plink: rising to the challenge of larger and richer
+  datasets.
+\newblock {\em GigaScience}, 4(1):7.
+
+\bibitem[Gresham, 2017]{Gresham2017}
+Gresham, S. (2017).
+\newblock Post-admixture selection has played a major role in african and
+  middle eastern modern human evolution.
+\newblock Master's thesis, Imperial College London.
+
+\bibitem[Hernandez and Bateman, 2008]{Hernandez2008}
+Hernandez, R.~D. and Bateman, A. (2008).
+\newblock {A flexible forward simulator for populations subject to selection
+  and demography}.
+\newblock {\em BIOINFORMATICS APPLICATIONS NOTE}, 24(23):2786--278710.
+
+\bibitem[Hodgson et~al., 2014]{Hodgson2014}
+Hodgson, J.~A., Mulligan, C.~J., Al-Meeri, A., and Raaum, R.~L. (2014).
+\newblock {Early Back-to-Africa Migration into the Horn of Africa}.
+\newblock {\em PLoS Genetics}, 10(6).
+
+\bibitem[Llorente et~al., 2015]{llorente2015ancient}
+Llorente, M.~G., Jones, E.~R., Eriksson, A., Siska, V., Arthur, K., Arthur, J.,
+  Curtis, M., Stock, J.~T., Coltorti, M., Pieruccini, P., et~al. (2015).
+\newblock Ancient ethiopian genome reveals extensive eurasian admixture in
+  eastern africa.
+\newblock {\em Science}, 350(6262):820--822.
+
+\bibitem[Skoglund et~al., 2017]{Skoglund2017}
+Skoglund, P., Thompson, J.~C., Prendergast, M.~E., Mittnik, A., Sirak, K.,
+  Hajdinjak, M., Salie, T., Rohland, N., Mallick, S., Peltzer, A., Heinze, A.,
+  Olalde, I., Ferry, M., Harney, E., Michel, M., Stewardson, K.,
+  Cerezo-Rom{\'{a}}n, J.~I., Chiumia, C., Crowther, A., Gomani-Chindebvu, E.,
+  Gidna, A.~O., Grillo, K.~M., Helenius, I.~T., Hellenthal, G., Helm, R.,
+  Horton, M., L{\'{o}}pez, S., Mabulla, A.~Z., Parkington, J., Shipton, C.,
+  Thomas, M.~G., Tibesasa, R., Welling, M., Hayes, V.~M., Kennett, D.~J.,
+  Ramesar, R., Meyer, M., P{\"{a}}{\"{a}}bo, S., Patterson, N., Morris, A.~G.,
+  Boivin, N., Pinhasi, R., Krause, J., and Reich, D. (2017).
+\newblock {Reconstructing Prehistoric African Population Structure}.
+\newblock {\em Cell}, 171(1):59--71.e21.
+
+\end{thebibliography}
