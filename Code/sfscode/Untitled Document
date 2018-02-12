@@ -1,0 +1,38 @@
+alias sfscode='Programs/sfscode/bin/./sfs_code'
+
+# Input for SFS-Code:
+## 1 - Following Example from pdf guide.
+
+# Setting up for 3 populations, 1 iteration...
+sfscode 3 1 
+
+#To split initial population i into two populations i & j:
+#eg -TS <time> <pop 'i'> <pop 'j'>
+-TS 0 0 1
+-TS 0 0 2
+
+#Termination of population i
+-TE 2
+
+#Admixture 
+# -TJ <time> <pop> <size> <founder 1> <founder 2>
+-TJ 2,2,500,2,0,1,0.8,0.2,F,0.2,0.8
+
+
+#Altogether
+sfscode 3 1 -TS 0 0 1 -TJ 2 2 500 2 0 1 0.8 0.2
+
+
+# My Code:
+
+
+sfscode 3 1 
+-TS 0 0 1 
+-TJ 50 2 500 2 0 1 
+-L 2 500 
+--mutation 0 0 1 50 1 0.3 
+--mutation 0 0 1 75 1 0.5 
+--mutation 0 0 2 100 1 0.6 
+--mutation 0 0 2 125 1 0.7
+--VCF
+
